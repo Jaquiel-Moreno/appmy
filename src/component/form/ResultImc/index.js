@@ -12,11 +12,9 @@ export default function ResultImc(props){
         const result = await Share.share({
             message:"Meu IMC hoje é: " + props.resultImc,
         }) 
-    
-    
-    
-    
     }
+  
+    
       
 
 
